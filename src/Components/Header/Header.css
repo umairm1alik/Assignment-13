@@ -1,0 +1,19 @@
+.header{
+    background-color: #363940;
+    padding: 30px 50px;
+}
+#hHeading{
+    color: white;
+    font-weight: bold;
+}
+#hPara{
+    color: white;
+    opacity: 85%;
+    margin: 15px 0 ;
+}
+#reading{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}

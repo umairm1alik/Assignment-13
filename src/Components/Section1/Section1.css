@@ -1,0 +1,28 @@
+.title{
+    font-weight: bold;
+}
+.comp{
+    margin-top: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.thumbnail{
+    background-color: #363940;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#world{
+    
+    font-weight: bold;
+    color: rgb(58, 58, 250);
+}
+#reading2{
+    color: rgb(74, 74, 221);
+    cursor: pointer;
+}
+#design{
+    font-weight: bold;
+    color: green;
+}

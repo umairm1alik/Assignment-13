@@ -1,0 +1,42 @@
+.rowPad{
+    margin-top: 30px;
+    margin-left: -25px;
+}
+.textBold{
+    font-weight: bold;
+}
+.publishDate{
+    margin-top: -10px;
+    opacity: 80%;
+}
+.btn{
+    border-color: #0D6EFD;
+    width: 100px;
+    height: 40px;
+    color: #0D6EFD;
+    background-color: white;
+    border-radius: 25px;
+}
+#btn1:hover{
+    background-color: #0D6EFD;
+    color: white;
+    
+}
+#btn1{
+    margin-right: 5px;
+}
+#box{
+    background-color: #F9FAFC;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.list{
+    list-style: none;
+    margin-left: -30px;
+    color: #0D6EFD;
+    cursor: pointer;
+}
+.bothLists{
+    margin-top: 15px;
+}
